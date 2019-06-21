@@ -32,6 +32,4 @@ Unarguably technogies/languages/tools are having great influence on ease of doin
 
 ```
 
-Find my [resume] (https://github.com/navneet7/myResume/blob/master/Navneet%20Kuma-BigData_June2019.pdf).
-
-Find me on [linkedIn] (https://www.linkedin.com/in/na5neetkumar/).
+Find my [resume] here (https://github.com/navneet7/myResume/blob/master/Navneet%20Kuma-BigData_June2019.pdf) or Find me on [linkedIn] (https://www.linkedin.com/in/na5neetkumar/)
