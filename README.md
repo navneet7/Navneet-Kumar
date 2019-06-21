@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Navneet Kumar
 
-You can use the [editor on GitHub](https://github.com/navneet7/navneet-resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a business analyst at Deloitte for more than 2 years. I am passionate about learning Business Strategy and coming up with different approaches to implement them in day-to-day business life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have eager to learn about technologies that are making a difference in everyday life and how our lifestyle changes over the time by making most out of these technologies.
 
 ### Markdown
 
